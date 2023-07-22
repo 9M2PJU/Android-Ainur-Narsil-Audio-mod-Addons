@@ -1,5 +1,5 @@
 # Android-Ainur-Narsil-Audio-mod-Addons
-Rooted android audio mod magisk modules
+Android audio mod with spatial audio!!
 
 
 ![image](https://github.com/9M2PJU/Android-Ainur-Narsil-Audio-mod-Addons/assets/991353/3b3041c3-5f55-442a-add2-4a5dbd485423)
